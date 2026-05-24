@@ -1,0 +1,6 @@
+{
+  "name": "GIS Road Classifier Workshop",
+  "description": "An interactive workbench for classifying satellite and GIS road images using deep learning pipelines. Explore workflow architectures, download complete Python CNN/TensorFlow training scripts, and run live simulated or AI-powered road classifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
